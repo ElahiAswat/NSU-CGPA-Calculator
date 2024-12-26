@@ -4,9 +4,9 @@
 ```
 North South University
 ```
-[NSU➚](https://https://elahiaswat.github.io/CGPA-Calculator-4.0/)
+[NSU➚](https://elahiaswat.github.io/CGPA-Calculator-4.0/)
 
 ```
 Southeast University
 ```
-[Southeast University➚](https://https://elahiaswat.github.io/CGPA-Calculator-4.0/Southeast)
+[Southeast University➚](https://elahiaswat.github.io/CGPA-Calculator-4.0/Southeast)
